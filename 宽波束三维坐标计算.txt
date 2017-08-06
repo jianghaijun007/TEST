@@ -1,0 +1,3 @@
+	double Zw=fDistance*sin(angle_fuyang)+ m_OptiCenter_cal[2];
+	double Xw=fDistance*cos(angle_fuyang)*cos(angle_fangwei)+ m_OptiCenter_cal[0];
+	double Yw=fDistance*cos(angle_fuyang)*sin(angle_fangwei)+ m_OptiCenter_cal[1];
